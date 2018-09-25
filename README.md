@@ -1,7 +1,7 @@
 # Data Structure Assignments
 A collection of various Data Structure assignments I have completed from CSC21200 - Data Structures
 
-# Assignment1 -->
+# Assignment1 ::
 
 An implementation of the Barrel.h class. Created functions which can:
 
