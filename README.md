@@ -1,4 +1,4 @@
-# Data_Structure_Assignments
+# Data Structure Assignments
 A collection of various Data Structure assignments I have completed from CSC21200 - Data Structures
 
-Assignment1 --> 
+Assignment1::
