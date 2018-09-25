@@ -1,5 +1,5 @@
-# Data Structure Assignments
-A collection of various Data Structure assignments I have completed from CSC21200 - Data Structures
+# Data Structure Projects
+A collection of various Data Structure Projects I have completed from CSC21200 - Data Structures
 
 # Assignment1 ::
 
