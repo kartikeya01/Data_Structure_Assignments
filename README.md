@@ -1,4 +1,4 @@
-# Data Structure Projects
+# Data Structures
 A collection of various Data Structure Projects I have completed from CSC21200 - Data Structures
 
 ## Assignment1 
