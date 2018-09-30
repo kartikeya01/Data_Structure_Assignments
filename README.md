@@ -1,7 +1,7 @@
 # Data Structures
 A collection of various Data Structure Projects I have completed from CSC21200 - Data Structures
 
-## Assignment1 
+## Assignment 1 
 
 An implementation of the Barrel.h class. Created functions which can:
 
