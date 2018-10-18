@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment3/sequence2.cpp
+sequence2.h
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment3/sequence2.h
+algorithm
+-
+cassert
+-
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment3/sequence2.h
+cstdlib
+-
+
