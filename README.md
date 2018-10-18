@@ -16,3 +16,7 @@ Simulate an "Overflow" effect - If the user adds an excess amount of water or ol
 ## Assignment 2
 
 An implementation of the Sequence class using an array to store the sequence’s items.
+
+## Assignment 3
+
+An implementation of a revised Sequence Class that uses a dynamic array to store the items.
