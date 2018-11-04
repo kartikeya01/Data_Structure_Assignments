@@ -20,3 +20,7 @@ An implementation of the Sequence class using an array to store the sequence’s
 ## Assignment 3
 
 An implementation of a revised Sequence Class that uses a dynamic array to store the items.
+
+## Assignment 4
+
+An implementation of a revised Sequence Class that uses a linked list to store the items.
