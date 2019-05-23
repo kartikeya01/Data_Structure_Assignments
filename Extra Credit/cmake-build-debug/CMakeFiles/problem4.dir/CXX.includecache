@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kartikeya Sharma/CLionProjects/Extra Credit/problem4/bintree.cpp
+cassert
+-
+cstdlib
+-
+iomanip
+-
+iostream
+-
+bintree.h
+C:/Users/Kartikeya Sharma/CLionProjects/Extra Credit/problem4/bintree.h
+
+C:/Users/Kartikeya Sharma/CLionProjects/Extra Credit/problem4/bintree.h
+cstdlib
+-
+bintree.cpp
+C:/Users/Kartikeya Sharma/CLionProjects/Extra Credit/problem4/bintree.cpp
+
+C:/Users/Kartikeya Sharma/CLionProjects/Extra Credit/problem4/exam.cpp
+iostream
+-
+bintree.h
+C:/Users/Kartikeya Sharma/CLionProjects/Extra Credit/problem4/bintree.h
+
