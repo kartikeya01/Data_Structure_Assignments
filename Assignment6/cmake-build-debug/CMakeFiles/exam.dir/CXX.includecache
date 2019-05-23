@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bagexam.cpp
+iostream
+-
+cstring
+-
+bstbag.h
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bstbag.h
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bintree.cpp
+cassert
+-
+cstdlib
+-
+iomanip
+-
+iostream
+-
+bintree.h
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bintree.h
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bintree.h
+cstdlib
+-
+bintree.cpp
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bintree.cpp
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bstbag.cpp
+cassert
+-
+cstdlib
+-
+bstbag.h
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bstbag.h
+
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bstbag.h
+cstdlib
+-
+bintree.h
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bintree.h
+bstbag.cpp
+C:/Users/Kartikeya Sharma/CLionProjects/Assignment6/bstbag.cpp
+
