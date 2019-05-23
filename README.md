@@ -1,6 +1,3 @@
-# Data Structures
-A collection of various Data Structure Projects I have completed
-
 ## Assignment 1 
 
 An implementation of the Barrel.h class. Created functions which can:
